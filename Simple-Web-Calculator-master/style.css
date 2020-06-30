@@ -1,0 +1,46 @@
+*{padding:0px; margin:0px; box-sizing: 0px; }
+
+.cal{border-width: 8px 10px 20px 10px ;border-color:rgb(91, 155, 228) ; border-style: inset;
+    width: 20%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+  border-radius: 10px;background-image: url(benzene\ ring\ effect.png); size: 30px;
+}
+
+body{  background: linear-gradient(#0f2027 50%, #203a43 50%, #2c5364 50%);
+}
+
+
+
+
+.butta{ width: 40px;height: 30px; background-color: honeydew; font-size:20px;font-weight:bold;
+    margin: 3px 5px 3px 5px;box-shadow: 5px 10px 20px lightseagreen;
+}
+.butta:hover{ width: 40px;height: 30px; background-color: rgb(145, 241, 145);
+    margin: 3px 5px 3px 5px;box-shadow: 5px 10px 20px rgba(6, 190, 181, 0.822);
+border:1px solid green;border-radius: 10px;
+}
+
+.last-b{ width: 100px;height: 30px; background-color: honeydew;font-size:20px;font-weight:bold;
+    margin: 5px 30px 5px 10px; box-shadow: 5px 10px 20px rgb(32, 95, 178);
+}
+.last-b:hover{ width: 100px;height: 30px; background-color: rgb(145, 241, 145);
+    margin: 5px 30px 5px 10px; box-shadow: 5px 10px 20px rgb(32, 95, 178);
+    box-shadow: 5px 10px 20px rgba(6, 190, 181, 0.822);
+    border:1px solid green;border-radius: 10px;
+}
+
+.screen{width: 90%; height:50px ;background-color: rgb(173, 163, 163);
+    border-color: rgb(92, 88, 88); border-width: 5px;border-style: outset;
+    font-size: 20px; padding: 5px 5px 5px 5px;margin: 5px;
+}
+
+.cal-body{width: auto;padding: 10px 10px 10px 10px;
+
+}
+.buttan-body{width: 90%;margin: 5px 10px 5px 20px;
+
+}
+
